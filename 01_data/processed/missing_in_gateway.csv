@@ -1,0 +1,3 @@
+transaction_id,transaction_date,amount_usd_ledger,amount_usd_gateway,amount_mismatch,status_ledger,status_gateway,issue
+R004,2026-03-02,2100.0,0,2100.0,success,NA,MISSING_IN_GATEWAY
+R010,2026-03-05,2500.0,0,2500.0,success,NA,MISSING_IN_GATEWAY
