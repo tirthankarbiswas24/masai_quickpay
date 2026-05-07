@@ -1,7 +1,7 @@
 # Spreadsheet Answers
 
 ## Cleaning Steps
-- **Date**: Used the formula *=TEXT(if(or(B2="", B2="UNKNOWN", B2="ERROR"), "1900-01-01", B2), "YYYY_MM-DD")*
+- **Date**: Used the formula *=TEXT(if(or(B2="", B2="UNKNOWN", B2="ERROR"), "1900-01-01", B2), "YYYY-MM-DD")*
 - **Merchant Name**: Used the formuala *=trim(if(OR(D2="", D2="ERROR", D2="UNKNOWN"), "INVALID_OR_MISSING", proper(D2)))*
 - **Status**: Used the formula *=if(OR(J2="",J2 ="ERROR",J2 ="UNKNOWN"), "INVALID_OR_MISSING", proper(J2))*
 - **risk_score**: Used the formula *=if(OR(L2="",L2 ="ERROR",L2 ="UNKNOWN"), "INVALID_OR_MISSING", value(RIGHT(L2, 2)))*
