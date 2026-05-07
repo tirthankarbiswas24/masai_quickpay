@@ -1,4 +1,4 @@
-,gateway_region,GMV,count
-0,APAC,82594.0,22
-1,EU,18886.0,4
-2,US,14600.0,4
+gateway_region,GMV,count
+APAC,82594.0,22
+EU,18886.0,4
+US,14600.0,4

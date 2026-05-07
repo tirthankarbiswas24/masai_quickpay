@@ -1,6 +1,6 @@
-,merchant_name,GMV,count
-0,Alpha Mart,40812.0,11
-1,Beta Stores,41782.0,11
-2,City Pharma,8640.0,2
-3,Delta Travels,14600.0,4
-4,Eco Home,10246.0,2
+merchant_name,GMV,count
+Alpha Mart,40812.0,11
+Beta Stores,41782.0,11
+City Pharma,8640.0,2
+Delta Travels,14600.0,4
+Eco Home,10246.0,2

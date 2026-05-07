@@ -1,5 +1,5 @@
-,payment_method,GMV,count
-0,Card,52972.0,13
-1,NetBanking,15306.0,3
-2,UPI,34397.5,9
-3,Wallet,13404.5,5
+payment_method,GMV,count
+Card,52972.0,13
+NetBanking,15306.0,3
+UPI,34397.5,9
+Wallet,13404.5,5
