@@ -7,6 +7,7 @@ Student ID: 2601142
 
 Public GitHub Repository Link: https://github.com/tirthankarbiswas24/masai_quickpay
 
-Short run instructions: 
+Short run instructions: Execute the python notebook fintech_pipeline.ipynb
+This will create the required csv output files.
 
-Tools used: 
+Tools used: Python edior - Colab, Google sheet, db-fiddle.com, looker studio
